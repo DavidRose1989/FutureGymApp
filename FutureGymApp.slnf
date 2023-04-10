@@ -1,8 +1,0 @@
-{
-  "solution": {
-    "path": "..\\..\\..\\..\\source\\repos\\GymAppBetter\\GymAppBetter.sln",
-    "projects": [
-      "GymAppBetter\\GymAppBetter.csproj"
-    ]
-  }
-}
